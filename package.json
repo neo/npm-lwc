@@ -1,0 +1,22 @@
+{
+  "name": "lwc",
+  "version": "1.0.0",
+  "description": "User @lwc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo/npm-lwc.git"
+  },
+  "author": "Neo <neo.li@jam3.com> (https://github.com/neo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neo/npm-lwc/issues"
+  },
+  "homepage": "https://github.com/neo/npm-lwc#readme",
+  "dependencies": {
+    "slot-machine-button": "^0.3.0"
+  }
+}
