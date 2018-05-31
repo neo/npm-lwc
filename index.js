@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const author = {
   name: 'Neo',
   email: 'neo.li@jam3.com',

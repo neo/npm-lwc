@@ -1,7 +1,8 @@
 {
   "name": "lwc",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "User @lwc",
+  "bin": "index.js",
   "main": "index.js",
   "scripts": {
     "start": "node index"
@@ -17,6 +18,12 @@
   },
   "homepage": "https://github.com/neo/npm-lwc#readme",
   "dependencies": {
+    "angular-youtube-player": "^1.0.1",
+    "ipv4s": "^1.0.0",
+    "ng-slot-machine-button": "0.0.1",
     "slot-machine-button": "^0.3.0"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
